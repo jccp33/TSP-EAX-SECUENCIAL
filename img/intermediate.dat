@@ -1,0 +1,271 @@
+set xrange [-1:108]
+set yrange [-1:52]
+
+set arrow 1 from 34,15 to 35,17 nohead filled back lw 2 lc rgb "black"
+set arrow 2 from 35,17 to 38,16 nohead filled back lw 2 lc rgb "black"
+set arrow 3 from 38,16 to 38,20 nohead filled back lw 2 lc rgb "black"
+set arrow 4 from 38,20 to 40,22 nohead filled back lw 2 lc rgb "black"
+set arrow 5 from 40,22 to 41,23 nohead filled back lw 2 lc rgb "black"
+set arrow 6 from 41,23 to 48,22 nohead filled back lw 2 lc rgb "black"
+set arrow 7 from 48,22 to 48,27 nohead filled back lw 2 lc rgb "black"
+set arrow 8 from 48,27 to 56,25 nohead filled back lw 2 lc rgb "black"
+set arrow 9 from 56,25 to 57,25 nohead filled back lw 2 lc rgb "black"
+set arrow 10 from 57,25 to 64,22 nohead filled back lw 2 lc rgb "black"
+set arrow 11 from 64,22 to 71,16 nohead filled back lw 2 lc rgb "black"
+set arrow 12 from 71,16 to 74,16 nohead filled back lw 2 lc rgb "black"
+set arrow 13 from 74,16 to 74,12 nohead filled back lw 2 lc rgb "black"
+set arrow 14 from 74,12 to 71,11 nohead filled back lw 2 lc rgb "black"
+set arrow 15 from 71,11 to 71,13 nohead filled back lw 2 lc rgb "black"
+set arrow 16 from 71,13 to 57,12 nohead filled back lw 2 lc rgb "black"
+set arrow 17 from 57,12 to 48,6 nohead filled back lw 2 lc rgb "black"
+set arrow 18 from 48,6 to 34,5 nohead filled back lw 2 lc rgb "black"
+set arrow 19 from 34,5 to 28,16 nohead filled back lw 2 lc rgb "black"
+set arrow 20 from 28,16 to 33,15 nohead filled back lw 2 lc rgb "black"
+set arrow 22 from 28,16 to 34,15 nohead filled back lw 2 lc rgb "black"
+set arrow 141 from 25,29 to 28,20 nohead filled back lw 2 lc rgb "gray"
+set arrow 142 from 28,20 to 25,15 nohead filled back lw 2 lc rgb "gray"
+set arrow 143 from 25,15 to 18,13 nohead filled back lw 2 lc rgb "gray"
+set arrow 144 from 18,13 to 15,13 nohead filled back lw 2 lc rgb "gray"
+set arrow 145 from 15,13 to 12,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 146 from 12,10 to 11,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 147 from 11,10 to 10,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 148 from 10,10 to 9,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 149 from 9,10 to 5,19 nohead filled back lw 2 lc rgb "gray"
+set arrow 150 from 5,19 to 0,13 nohead filled back lw 2 lc rgb "gray"
+set arrow 151 from 0,13 to 5,13 nohead filled back lw 2 lc rgb "gray"
+set arrow 152 from 5,13 to 5,8 nohead filled back lw 2 lc rgb "gray"
+set arrow 153 from 5,8 to 2,0 nohead filled back lw 2 lc rgb "gray"
+set arrow 154 from 2,0 to 8,0 nohead filled back lw 2 lc rgb "gray"
+set arrow 155 from 8,0 to 12,5 nohead filled back lw 2 lc rgb "gray"
+set arrow 156 from 12,5 to 15,8 nohead filled back lw 2 lc rgb "gray"
+set arrow 157 from 15,8 to 18,11 nohead filled back lw 2 lc rgb "gray"
+set arrow 158 from 18,11 to 25,11 nohead filled back lw 2 lc rgb "gray"
+set arrow 159 from 25,11 to 25,9 nohead filled back lw 2 lc rgb "gray"
+set arrow 160 from 25,9 to 63,6 nohead filled back lw 2 lc rgb "gray"
+set arrow 161 from 63,6 to 74,6 nohead filled back lw 2 lc rgb "gray"
+set arrow 162 from 74,6 to 80,5 nohead filled back lw 2 lc rgb "gray"
+set arrow 163 from 80,5 to 84,6 nohead filled back lw 2 lc rgb "gray"
+set arrow 164 from 84,6 to 80,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 165 from 80,10 to 79,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 166 from 79,10 to 78,10 nohead filled back lw 2 lc rgb "gray"
+set arrow 167 from 78,10 to 74,20 nohead filled back lw 2 lc rgb "gray"
+set arrow 168 from 74,20 to 74,24 nohead filled back lw 2 lc rgb "gray"
+set arrow 169 from 74,24 to 77,21 nohead filled back lw 2 lc rgb "gray"
+set arrow 170 from 77,21 to 81,17 nohead filled back lw 2 lc rgb "gray"
+set arrow 171 from 81,17 to 84,20 nohead filled back lw 2 lc rgb "gray"
+set arrow 172 from 84,20 to 84,24 nohead filled back lw 2 lc rgb "gray"
+set arrow 173 from 84,24 to 107,27 nohead filled back lw 2 lc rgb "gray"
+set arrow 174 from 107,27 to 84,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 175 from 84,29 to 84,34 nohead filled back lw 2 lc rgb "gray"
+set arrow 176 from 84,34 to 84,38 nohead filled back lw 2 lc rgb "gray"
+set arrow 177 from 84,38 to 80,41 nohead filled back lw 2 lc rgb "gray"
+set arrow 178 from 80,41 to 78,39 nohead filled back lw 2 lc rgb "gray"
+set arrow 179 from 78,39 to 79,37 nohead filled back lw 2 lc rgb "gray"
+set arrow 180 from 79,37 to 78,35 nohead filled back lw 2 lc rgb "gray"
+set arrow 181 from 78,35 to 79,33 nohead filled back lw 2 lc rgb "gray"
+set arrow 182 from 79,33 to 78,32 nohead filled back lw 2 lc rgb "gray"
+set arrow 183 from 78,32 to 74,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 184 from 74,29 to 74,35 nohead filled back lw 2 lc rgb "gray"
+set arrow 185 from 74,35 to 74,39 nohead filled back lw 2 lc rgb "gray"
+set arrow 186 from 74,39 to 71,45 nohead filled back lw 2 lc rgb "gray"
+set arrow 187 from 71,45 to 71,47 nohead filled back lw 2 lc rgb "gray"
+set arrow 188 from 71,47 to 61,47 nohead filled back lw 2 lc rgb "gray"
+set arrow 189 from 61,47 to 61,45 nohead filled back lw 2 lc rgb "gray"
+set arrow 190 from 61,45 to 57,44 nohead filled back lw 2 lc rgb "gray"
+set arrow 191 from 57,44 to 51,45 nohead filled back lw 2 lc rgb "gray"
+set arrow 192 from 51,45 to 51,47 nohead filled back lw 2 lc rgb "gray"
+set arrow 193 from 51,47 to 34,38 nohead filled back lw 2 lc rgb "gray"
+set arrow 194 from 34,38 to 34,41 nohead filled back lw 2 lc rgb "gray"
+set arrow 195 from 34,41 to 28,43 nohead filled back lw 2 lc rgb "gray"
+set arrow 196 from 28,43 to 28,47 nohead filled back lw 2 lc rgb "gray"
+set arrow 197 from 28,47 to 18,45 nohead filled back lw 2 lc rgb "gray"
+set arrow 198 from 18,45 to 18,44 nohead filled back lw 2 lc rgb "gray"
+set arrow 199 from 18,44 to 15,43 nohead filled back lw 2 lc rgb "gray"
+set arrow 200 from 15,43 to 5,43 nohead filled back lw 2 lc rgb "gray"
+set arrow 201 from 5,43 to 0,39 nohead filled back lw 2 lc rgb "gray"
+set arrow 202 from 0,39 to 5,37 nohead filled back lw 2 lc rgb "gray"
+set arrow 203 from 5,37 to 5,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 204 from 5,31 to 0,27 nohead filled back lw 2 lc rgb "gray"
+set arrow 205 from 0,27 to 0,26 nohead filled back lw 2 lc rgb "gray"
+set arrow 206 from 0,26 to 5,25 nohead filled back lw 2 lc rgb "gray"
+set arrow 207 from 5,25 to 15,25 nohead filled back lw 2 lc rgb "gray"
+set arrow 208 from 15,25 to 15,19 nohead filled back lw 2 lc rgb "gray"
+set arrow 209 from 15,19 to 18,15 nohead filled back lw 2 lc rgb "gray"
+set arrow 210 from 18,15 to 18,17 nohead filled back lw 2 lc rgb "gray"
+set arrow 211 from 18,17 to 18,19 nohead filled back lw 2 lc rgb "gray"
+set arrow 212 from 18,19 to 18,21 nohead filled back lw 2 lc rgb "gray"
+set arrow 213 from 18,21 to 18,23 nohead filled back lw 2 lc rgb "gray"
+set arrow 214 from 18,23 to 18,25 nohead filled back lw 2 lc rgb "gray"
+set arrow 215 from 18,25 to 18,27 nohead filled back lw 2 lc rgb "gray"
+set arrow 216 from 18,27 to 18,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 217 from 18,29 to 18,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 218 from 18,31 to 15,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 219 from 15,31 to 18,33 nohead filled back lw 2 lc rgb "gray"
+set arrow 220 from 18,33 to 18,35 nohead filled back lw 2 lc rgb "gray"
+set arrow 221 from 18,35 to 18,37 nohead filled back lw 2 lc rgb "gray"
+set arrow 222 from 18,37 to 15,37 nohead filled back lw 2 lc rgb "gray"
+set arrow 223 from 15,37 to 18,39 nohead filled back lw 2 lc rgb "gray"
+set arrow 224 from 18,39 to 18,41 nohead filled back lw 2 lc rgb "gray"
+set arrow 225 from 18,41 to 18,42 nohead filled back lw 2 lc rgb "gray"
+set arrow 226 from 18,42 to 28,40 nohead filled back lw 2 lc rgb "gray"
+set arrow 227 from 28,40 to 28,34 nohead filled back lw 2 lc rgb "gray"
+set arrow 228 from 28,34 to 25,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 229 from 25,29 to 25,28 nohead filled back lw 2 lc rgb "gray"
+set arrow 230 from 25,28 to 25,26 nohead filled back lw 2 lc rgb "gray"
+set arrow 231 from 25,26 to 25,23 nohead filled back lw 2 lc rgb "gray"
+set arrow 232 from 25,23 to 25,22 nohead filled back lw 2 lc rgb "gray"
+set arrow 233 from 25,22 to 25,24 nohead filled back lw 2 lc rgb "gray"
+set arrow 234 from 25,24 to 28,28 nohead filled back lw 2 lc rgb "gray"
+set arrow 235 from 28,28 to 28,30 nohead filled back lw 2 lc rgb "gray"
+set arrow 236 from 28,30 to 32,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 237 from 32,31 to 33,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 238 from 33,31 to 34,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 239 from 34,31 to 35,31 nohead filled back lw 2 lc rgb "gray"
+set arrow 240 from 35,31 to 38,34 nohead filled back lw 2 lc rgb "gray"
+set arrow 241 from 38,34 to 41,35 nohead filled back lw 2 lc rgb "gray"
+set arrow 242 from 41,35 to 41,36 nohead filled back lw 2 lc rgb "gray"
+set arrow 243 from 41,36 to 41,34 nohead filled back lw 2 lc rgb "gray"
+set arrow 244 from 41,34 to 41,32 nohead filled back lw 2 lc rgb "gray"
+set arrow 245 from 41,32 to 38,30 nohead filled back lw 2 lc rgb "gray"
+set arrow 246 from 38,30 to 34,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 247 from 34,29 to 33,29 nohead filled back lw 2 lc rgb "gray"
+set arrow 248 from 33,29 to 34,26 nohead filled back lw 2 lc rgb "gray"
+set arrow 249 from 34,26 to 33,26 nohead filled back lw 2 lc rgb "gray"
+set arrow 250 from 33,26 to 32,26 nohead filled back lw 2 lc rgb "gray"
+set arrow 252 from 33,26 to 25,29 nohead filled back lw 2 lc rgb "gray"
+
+plot '-'  w p ls 7 lc rgb "black" pointsize 0.5 notitle
+0 13
+0 26
+0 27
+0 39
+2 0
+5 13
+5 19
+5 25
+5 31
+5 37
+5 43
+5 8
+8 0
+9 10
+10 10
+11 10
+12 10
+12 5
+15 13
+15 19
+15 25
+15 31
+15 37
+15 43
+15 8
+18 11
+18 13
+18 15
+18 17
+18 19
+18 21
+18 23
+18 25
+18 27
+18 29
+18 31
+18 33
+18 35
+18 37
+18 39
+18 41
+18 42
+18 44
+18 45
+25 11
+25 15
+25 22
+25 23
+25 24
+25 26
+25 28
+25 29
+25 9
+28 16
+28 20
+28 28
+28 30
+28 34
+28 40
+28 43
+28 47
+32 26
+32 31
+33 15
+33 26
+33 29
+33 31
+34 15
+34 26
+34 29
+34 31
+34 38
+34 41
+34 5
+35 17
+35 31
+38 16
+38 20
+38 30
+38 34
+40 22
+41 23
+41 32
+41 34
+41 35
+41 36
+48 22
+48 27
+48 6
+51 45
+51 47
+56 25
+57 12
+57 25
+57 44
+61 45
+61 47
+63 6
+64 22
+71 11
+71 13
+71 16
+71 45
+71 47
+74 12
+74 16
+74 20
+74 24
+74 29
+74 35
+74 39
+74 6
+77 21
+78 10
+78 32
+78 35
+78 39
+79 10
+79 33
+79 37
+80 10
+80 41
+80 5
+81 17
+84 20
+84 24
+84 29
+84 34
+84 38
+84 6
+107 27
+e
+
+pause -1
