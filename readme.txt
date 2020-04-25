@@ -1,5 +1,5 @@
 
-Repository: TSP-PSX-V2
+Repository: TSP-EAX-V2
 Project:    Genetic algorithm for TSP
 Author:     Jesús Carlos Cárdenas Piñuelas
 OS:         Ubuntu 18.04
@@ -35,7 +35,7 @@ TRIAL:      Attempts to execute.
 
 ------------------------------ ESPAÑOL ------------------------------
 
-Repositorio: TSP-PSX-V2
+Repositorio: TSP-EAX-V2
 Proyecto:    Algoritmo genetico para el TSP
 Autor:       Jesús Carlos Cárdenas Piñuelas
 SO:          Ubuntu 18.04
